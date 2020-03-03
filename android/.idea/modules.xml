@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.14.0/android/audioplayers.iml" filepath="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.14.0/android/audioplayers.iml" group="android/audioplayers" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.4/android/path_provider.iml" filepath="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.4/android/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4/android/path_provider_macos.iml" filepath="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4/android/path_provider_macos.iml" group="android/path_provider_macos" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.1+8/android/sensors.iml" filepath="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.1+8/android/sensors.iml" group="android/sensors" />
+    </modules>
+  </component>
+</project>
